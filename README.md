@@ -2,7 +2,7 @@
 
 This repository only hosts the published documentation site:
 
-**https://biyani701.github.io/jira-transition-runner/**
+**https://www.biyani.xyz/jira-transition-runner/**
 
 The source code is private and is not in this repository. The site is built
 from the private repository and published to the `gh-pages` branch automatically.
